@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### About me 🙋‍♂️️
+
+* Sofware Engineer [@KudosInc](https://github.com/KudosInc/)
+* Currently digging into DevOps and Microservices
+* Contributor [@freeCodeCamp](https://github.com/freeCodeCamp)
+* Linux and open-source software enthusiast 🧡️
+
+### Blog posts 📖️
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **gugacavalieri/gugacavalieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
