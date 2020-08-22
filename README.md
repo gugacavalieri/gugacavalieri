@@ -9,6 +9,7 @@
 
 ### Blog posts 📖️
 <!-- BLOG-POST-LIST:START -->
+- [How do I organize my work day (+Tools)](https://dev.to/gugacavalieri/how-do-i-organize-my-work-day-tools-2gd6)
 - [Install latest version of Ruby and Rails using Snap](https://dev.to/gugacavalieri/install-latest-version-of-ruby-and-rails-using-snap-2d7e)
 - [[JS] This command will help you to free some disk space](https://dev.to/gugacavalieri/js-this-command-will-help-you-to-free-some-disk-space-il2)
 - [How to access your localhost application on any device](https://dev.to/gugacavalieri/how-to-access-your-localhost-application-on-any-device-4gm4)
