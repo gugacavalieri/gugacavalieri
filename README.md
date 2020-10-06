@@ -9,11 +9,11 @@
 
 ### Latest Blog posts 📖️
 <!-- BLOG-POST-LIST:START -->
+- [Running in the Cloud? Watch out for low port numbers!](https://dev.to/gugacavalieri/running-in-the-cloud-watch-out-for-low-port-numbers-10fn)
 - [Como eu organizo meu dia de trabalho (also in EN)](https://dev.to/gugacavalieri/como-eu-organizo-meu-dia-de-trabalho-also-in-en-1a7b)
 - [How do I organize my work day (+Tools)](https://dev.to/gugacavalieri/how-do-i-organize-my-work-day-tools-2gd6)
 - [Install latest version of Ruby and Rails using Snap](https://dev.to/gugacavalieri/install-latest-version-of-ruby-and-rails-using-snap-2d7e)
 - [[JS] This command will help you to free some disk space](https://dev.to/gugacavalieri/js-this-command-will-help-you-to-free-some-disk-space-il2)
-- [How to access your localhost application on any device](https://dev.to/gugacavalieri/how-to-access-your-localhost-application-on-any-device-4gm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
