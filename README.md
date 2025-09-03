@@ -2,7 +2,7 @@
 
 ### About me 🙋‍♂️️
 
-* Manager, Site Reliability Engineer [@KudosInc](https://github.com/KudosInc/) 🧑‍💻
+* Manager, Site Reliability Engineer [@EA](https://github.com/electronicarts) 🧑‍💻
 * Working on Infrastructure, SRE, DevOps, Resilience, Observability and Scalability. 👾
 * Linux and Open-Source software enthusiast 🔥
 * Volunteer contributor [@freeCodeCamp](https://github.com/freeCodeCamp). Believe we always have something to give back 🧡
